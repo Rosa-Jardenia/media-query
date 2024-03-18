@@ -2,3 +2,20 @@
 
 /*configurações gerais*/
 
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(35, 62, 255);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+h1{
+    color: aliceblue;
+    text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.47);
+}
